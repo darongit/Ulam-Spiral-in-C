@@ -1,6 +1,6 @@
 # Ulam Spiral in C
 
-## What is purpose of this program
+## What was the purpose of writing this program
 I wanted to understand working with pointers and what's going on under the hood.
 
 ## What it can do
